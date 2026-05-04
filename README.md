@@ -55,9 +55,9 @@ A **production-grade Employee Management REST API** built with FastAPI and MySQL
 > **▶ Clone and run in 60 seconds — see [Quick Start](#-quick-start)**
 
 ```bash
-git clone https://github.com/Vikash4122002/employee-management-api.git
-cd employee-management-api
-docker-compose up --build
+git clone https://github.com/Vikash4122002/Employee-Management-API.git
+cd Employee-Management-API
+docker compose up --build
 ```
 
 Then open 👉 **[http://localhost:8000/docs](http://localhost:8000/docs)**
